@@ -9,7 +9,7 @@ body{
   margin:  0;
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  background-color: #b5dadf;
+  background-color: #376e96;
 }
 h1{
   font-size: 1.7em;
@@ -85,7 +85,7 @@ header{
 header:before{
   content: "";
   position: absolute;
-  background-color: #6decc2;
+  background-color: #7fcfc4;
   width: 100%;
   height: 68%;
   z-index: -1;
@@ -168,7 +168,7 @@ a.nav-link:focus{
 	display: flex;
 	height: 100vh;
 	align-items: center;
-	background: #b5e6e6 url("https://placehold.co/600x400") no-repeat right bottom;
+	background: #5790b8 url("https://placehold.co/600x400") no-repeat right bottom;
 }
 .hero-img img{
   display: none;
@@ -197,7 +197,7 @@ a.nav-link:focus{
   display: block;
   position: relative;
   padding: 1.3em;
-  background-color: #6af0bc;
+  background-color: #7fcfc4;
   text-align: center;
   margin-bottom: 2em;
 }
@@ -223,7 +223,7 @@ a.nav-link:focus{
 
 /* About Section */
 #about{
-  background-color: #b5e6e6;
+  background-color: #5790b8;
 }
 section#about{
   padding-bottom: 5.8em;
@@ -273,7 +273,7 @@ form input:last-child{
   flex: 1 0 20%;
   border-left: 0;  
   cursor: pointer;
-  background-color: #6af0bc;
+  background-color: #7fcfc4;
   transition: all .25s ease;
 }
 #submit:hover {
